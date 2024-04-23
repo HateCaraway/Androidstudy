@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrawableShapeActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="300dp"
+        android:id="@+id/showShape"
+        android:gravity="center"
+        android:text="准备改变形状是阿克苏金克拉介绍了
+        卡机可怜见ask领导就是埃松加ask来得及啊快乐圣诞节·1按揭贷款拉手机打开拉萨简单快乐刻录机奥克兰就撒开了多久卡手机卡大数据">
+    </TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="变成圆形"
+            android:id="@+id/BeRound"></Button>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/BeSquare"
+            android:text="变成方形"></Button>
+
+
+    </LinearLayout>
+
+</LinearLayout>

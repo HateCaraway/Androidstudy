@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="CheckBoxActivity">
+        <State />
+      </entry>
+      <entry key="DrawableShapeActivity">
+        <State />
+      </entry>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="ReadStringActivity">
+        <State />
+      </entry>
+      <entry key="SwitchActivity">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\jie.wang12\.android\avd\Pixel_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-17T09:26:05.869993700Z" />
+        </State>
+      </entry>
+      <entry key="appstudy">
+        <State />
+      </entry>
+      <entry key="chaptr01">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
